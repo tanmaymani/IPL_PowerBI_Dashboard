@@ -26,7 +26,7 @@ This interactive Power BI dashboard provides detailed insights into Indian Premi
 - Fours
 - Matches
 - Winning Percentage
-- 
+
 ## Skills Demonstrated
 
 - Data Cleaning
